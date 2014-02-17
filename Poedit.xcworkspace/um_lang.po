@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arctic\n"
+"POT-Creation-Date: 2013-12-02 14:36+0100\n"
+"PO-Revision-Date: 2013-12-02 14:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\arctic\\wp-content\\themes"
+"\\arctic\n"
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/comments.php:5
+msgid "Recent Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/comments.php:25
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/single.php:53
+msgid "Tags"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-blog.php:40
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-projects-grid.php:116
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-projects.php:118
+msgid "Load More"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-contact.php:34
+msgid "Contact Us"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-contact.php:38
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-contact.php:39
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-contact.php:40
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:205
+msgid "Message"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-contact.php:50
+msgid "Adress"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-projects-grid.php:60
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/template-projects.php:60
+msgid "All"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:138
+msgid "Map address"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:139
+msgid "Return the address along with the coordinates."
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:158
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:144
+msgid "Map center"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:159
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:145
+msgid "Latitude and longitude to center the initial map."
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:173
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:159
+msgid "Map zoom"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:188
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:174
+msgid "Map Scrollwheel"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:189
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:175
+msgid "Allows scrollwheel zooming on the map field"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:274
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:245
+msgid "This address could not be found: "
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:289
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:260
+msgid "This place could not be found: "
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:369
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:340
+msgid "Search for a location"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:371
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:342
+msgid "Find the complete address"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:371
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:342
+msgid "Address: "
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v3.php:373
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:344
+msgid "Coordinates: "
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/acf-location-field/location-v4.php:125
+msgid "Return Value"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:134
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:69
+msgid "Language"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:155
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:91
+msgid "Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:156
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:92
+msgid ""
+"Set a theme for the editor (<a href=\"http://codemirror.net/demo/theme.html"
+"\" target=\"_blank\">Preview Here</a>) "
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/ui-drag/ui_drag-v3.php:133
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/ui-drag/ui_drag-v4.php:74
+msgid "Preview Size"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/ui-drag/ui_drag-v3.php:134
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/includes/ui-drag/ui_drag-v4.php:75
+msgid "Thumbnail is advised"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:128
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:203
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:128
+msgid "Content"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:131
+msgid "Add Row"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:132
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:207
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:264
+msgid "Get Shortcode"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:196
+msgid "Type"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:198
+msgid "Info"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:199
+msgid "Success"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:200
+msgid "Warning"
+msgstr ""
+
+#: C:\xampp\htdocs\arctic\wp-content\themes\arctic/shortcodes/dialog-forms.php:201
+msgid "Error"
+msgstr ""
